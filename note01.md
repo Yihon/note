@@ -1,4 +1,4 @@
-ABIs [armeabi] are not supported for platform. Supported ABIs are [armeabi-v7a, arm64-v8a, x86, x86_64]
+1.ABIs [armeabi] are not supported for platform. Supported ABIs are [armeabi-v7a, arm64-v8a, x86, x86_64]
 起因：
 使用最新ndk编译出现了异常
 原因：
@@ -8,5 +8,8 @@ ABIs [armeabi] are not supported for platform. Supported ABIs are [armeabi-v7a, 
 https://blog.51cto.com/4789781/2116935
 
 
-Android Studio CMake错误查找
+2.Android Studio CMake错误查找
 https://blog.csdn.net/MoSee/article/details/88355178
+
+3.浅谈C、C++及其区别、兼容与不兼容
+https://www.cnblogs.com/Amedeo/p/6246013.html
