@@ -13,3 +13,6 @@ https://blog.csdn.net/MoSee/article/details/88355178
 
 3.浅谈C、C++及其区别、兼容与不兼容
 https://www.cnblogs.com/Amedeo/p/6246013.html
+
+4.android请求连接wifi之后验证密码是否正确的方法
+https://blog.csdn.net/OnionOmelette/article/details/54955547
