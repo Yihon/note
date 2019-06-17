@@ -16,3 +16,6 @@ https://www.cnblogs.com/Amedeo/p/6246013.html
 
 4.android请求连接wifi之后验证密码是否正确的方法
 https://blog.csdn.net/OnionOmelette/article/details/54955547
+
+5.用代码的方式打开“允许安装来自未知来源的应用”
+https://www.cnblogs.com/mengshu-lbq/p/3214737.html
