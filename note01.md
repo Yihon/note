@@ -18,4 +18,4 @@ https://www.cnblogs.com/Amedeo/p/6246013.html
 https://blog.csdn.net/OnionOmelette/article/details/54955547
 
 5.用代码的方式打开“允许安装来自未知来源的应用”
-https://www.cnblogs.com/mengshu-lbq/p/3214737.html
+https://blog.csdn.net/chenyu123123123/article/details/80818778
