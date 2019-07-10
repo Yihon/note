@@ -19,3 +19,6 @@ https://blog.csdn.net/OnionOmelette/article/details/54955547
 
 5.用代码的方式打开“允许安装来自未知来源的应用”
 https://blog.csdn.net/chenyu123123123/article/details/80818778
+
+6.Android 关于arm64-v8a、armeabi-v7a、armeabi、x86下的so文件兼容问题
+https://blog.csdn.net/ouyang_peng/article/details/51168072
