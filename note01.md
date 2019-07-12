@@ -28,3 +28,6 @@ https://blog.csdn.net/astonishqft/article/details/83029490
 
 8.深入理解在Android中线程池的使用
 https://blog.csdn.net/l540675759/article/details/62230562
+
+9.android：线程池和AsyncTask使用小结
+https://blog.csdn.net/huangxiaoguo1/article/details/78614842
