@@ -25,3 +25,6 @@ https://blog.csdn.net/ouyang_peng/article/details/51168072
 
 7.git切换到指定远程分支
 https://blog.csdn.net/astonishqft/article/details/83029490
+
+8.深入理解在Android中线程池的使用
+https://blog.csdn.net/l540675759/article/details/62230562
