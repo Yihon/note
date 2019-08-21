@@ -31,3 +31,6 @@ https://blog.csdn.net/l540675759/article/details/62230562
 
 9.android：线程池和AsyncTask使用小结
 https://blog.csdn.net/huangxiaoguo1/article/details/78614842
+
+10.popBackStackImmediate Can not perform this action after onSaveInstanceState
+https://blog.csdn.net/stupid56862/article/details/80804437
