@@ -34,3 +34,5 @@ https://blog.csdn.net/huangxiaoguo1/article/details/78614842
 
 10.popBackStackImmediate Can not perform this action after onSaveInstanceState
 https://blog.csdn.net/stupid56862/article/details/80804437
+
+https://sqlitebrowser.org/dl/
