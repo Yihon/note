@@ -35,4 +35,8 @@ https://blog.csdn.net/huangxiaoguo1/article/details/78614842
 10.popBackStackImmediate Can not perform this action after onSaveInstanceState
 https://blog.csdn.net/stupid56862/article/details/80804437
 
+11.sqlite工具
 https://sqlitebrowser.org/dl/
+
+12.Java/Android中的优先级任务队列的实践
+https://blog.csdn.net/yanzhenjie1003/article/details/71773950
