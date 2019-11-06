@@ -40,3 +40,6 @@ https://sqlitebrowser.org/dl/
 
 12.Java/Android中的优先级任务队列的实践
 https://blog.csdn.net/yanzhenjie1003/article/details/71773950
+
+13.java中double类型数据加减操作精度丢失问题及解决方法
+https://blog.csdn.net/yacolspace/article/details/78287394
