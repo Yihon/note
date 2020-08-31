@@ -43,3 +43,6 @@ https://blog.csdn.net/yanzhenjie1003/article/details/71773950
 
 13.java中double类型数据加减操作精度丢失问题及解决方法
 https://blog.csdn.net/yacolspace/article/details/78287394
+
+14.openstreetmap地点搜索
+https://blog.csdn.net/u013594477/article/details/78131908
